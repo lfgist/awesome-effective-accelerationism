@@ -13,6 +13,8 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 ## Online presence
 
 * [e/acc Forum](https://www.effectiveacceleration.org)
+* [e/acc Discord](https://discord.gg/e5RUzW2YFq)
+* [e/acc Substack](https://effectiveaccelerationism.substack.com)
 
 ## Books
 
