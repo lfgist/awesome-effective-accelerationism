@@ -1,6 +1,6 @@
 # Awesome Effective Accelerationism
 
-> A curated list of resources relevant to Effective Accelerationism (e/acc).
+> A **completely unofficial** curated list of resources relevant to Effective Accelerationism (e/acc).
 
 _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 
@@ -31,11 +31,14 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _The Beginning of Infinity: Explanations that Transform the World_, by Deutsch, David
 * _The Moral Animal_, by Wright, Robert
 * _The Singularity is Near_, by Kurzweil, Ray
+* _Where Is My Flying Car?_, by Hall, J. Storrs
 
 ### Fiction
 
 * _Accelerando_, by Stross, Charles
 * _Ender's Game_, by Card, Orson Scott
+* _Permutation City_, by Egan, Greg
+* _The Metamorphosis of Prime Intellect_, by Williams, Roger
 * _Thus Spoke Zarathustra_, by Nietzsche, Friedrich
 * _We are Legion (We are Bob)_, by Taylor, Dennis
 
