@@ -23,9 +23,12 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _Behave_, by Sapolsky, Robert
 * _Engines of Creation: The Coming Era of Nanotechnology_, by Drexel, K. Eric
 * _Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things_, by England, Jeremy
+* _Life 3.0_, by Tegmark, Max
 * _On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines_, by Blakeslee, Sandra
+* _Possible Minds: 25 Ways of looking at AI_, by Brockman, John
 * _The Physics of Immortality: Modern Cosmology, God and the Resurrection of the Dead_, by Tipler, Frank J.
 * _Programming the Universe: A Quantum Computer Scientist Takes On the Cosmos_, by Lloyd, Seth
+* _Reality Is Not What It Seems_, by Rovelli, Carlo
 * _Sapiens: A Brief History of Humankind : Harari_, by Noah, Yuval
 * _Scale_, by West, Geoffrey
 * _The Beginning of Infinity: Explanations that Transform the World_, by Deutsch, David
