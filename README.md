@@ -29,8 +29,9 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _The Physics of Immortality: Modern Cosmology, God and the Resurrection of the Dead_, by Tipler, Frank J.
 * _Programming the Universe: A Quantum Computer Scientist Takes On the Cosmos_, by Lloyd, Seth
 * _Reality Is Not What It Seems_, by Rovelli, Carlo
-* _Sapiens: A Brief History of Humankind : Harari_, by Noah, Yuval
+* _Sapiens: A Brief History of Humankind_*, by Noah, Yuval
 * _Scale_, by West, Geoffrey
+* _The Artilect War: Cosmists Vs. Terrans_, by De Garis, Hugh
 * _The Beginning of Infinity: Explanations that Transform the World_, by Deutsch, David
 * _The Moral Animal_, by Wright, Robert
 * _The Singularity is Near_, by Kurzweil, Ray
@@ -38,10 +39,11 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 
 ### Fiction
 
-* _Accelerando_, by Stross, Charles
+* _Accelerando_*, by Stross, Charles
 * _Ender's Game_, by Card, Orson Scott
 * _Permutation City_, by Egan, Greg
 * _The Metamorphosis of Prime Intellect_, by Williams, Roger
+* _The Transhumanist Wager_, by Istvan, Zoltan
 * _Thus Spoke Zarathustra_, by Nietzsche, Friedrich
 * _We are Legion (We are Bob)_, by Taylor, Dennis
 
