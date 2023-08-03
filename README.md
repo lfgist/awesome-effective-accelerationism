@@ -1,6 +1,6 @@
 # Awesome Effective Accelerationism
 
-> A **completely unofficial** curated list of resources relevant to Effective Accelerationism (e/acc).
+> A curated list of resources relevant to Effective Accelerationism (e/acc).
 
 _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 
@@ -8,6 +8,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 
 * [Online presence](#online-presence)
 * [Books](#books)
+* [YouTube channels](#youtube-channels)
 * [Movies](#movies)
 
 ## Online presence
@@ -46,6 +47,17 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _The Transhumanist Wager_, by Istvan, Zoltan
 * _Thus Spoke Zarathustra_, by Nietzsche, Friedrich
 * _We are Legion (We are Bob)_, by Taylor, Dennis
+
+## YouTube channels
+
+* [Applied Science](https://www.youtube.com/@AppliedScience)
+* [Cody'sLab](https://www.youtube.com/@theCodyReeder)
+* [Huygens Optics](https://www.youtube.com/user/huygensoptics)
+* [NightHawkinLight](https://www.youtube.com/@Nighthawkinlight)
+* [NileRed](https://www.youtube.com/@NileRed)
+* [Tech Ingredients](https://www.youtube.com/@TechIngredients)
+* [The Thought Emporium](https://www.youtube.com/@thethoughtemporium)
+* [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
 ## Movies
 
