@@ -22,7 +22,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 ### Non-fiction
 
 * _Behave_, by Sapolsky, Robert
-* _Engines of Creation: The Coming Era of Nanotechnology_, by Drexel, K. Eric
+* _Engines of Creation: The Coming Era of Nanotechnology_, by Drexler, K. Eric
 * _Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things_, by England, Jeremy
 * _Life 3.0_, by Tegmark, Max
 * _On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines_, by Blakeslee, Sandra
