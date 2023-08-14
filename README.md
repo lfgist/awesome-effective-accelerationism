@@ -9,8 +9,10 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * [Online presence](#online-presence)
 * [Books](#books)
 * [YouTube channels](#youtube-channels)
+* [Podcasts](#podcasts)
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
+* [Video Games](#video-games)
 
 ## Online presence
 
@@ -80,14 +82,17 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * Her (2013)
 * I, Robot (2004)
 * Minority Report (2002)
+* The Artifice Girl (2022)
 * The Matrix (several movies)
 * Transcendence (2014)
+* Upgrade (2018)
 * Vanilla Sky (2001)
 * WALL-E (2008)
 
 ### Anime
 
 * Akira (1988)
+* Blame! (2017)
 
 ### Documentaries
 
@@ -96,8 +101,12 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 
 ## TV Shows
 
+### Live-Action
+
+* Altered Carbon (2017–2020)
 * Black Mirror (2011–)
 * Foundation (2021–)
+* I Am Mother (2019)
 * Love, Death + Robots (2019–)
 * Westworld (2016–2022)
 
@@ -107,3 +116,8 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * Ghost in the Shell (several series)
 * Psycho-Pass (2012)
 * Serial Experiments Lain (1998)
+
+## Video Games
+
+* Cyberpunk 2077 (2020)
+* Detroit: Become Human (2018)
