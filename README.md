@@ -10,6 +10,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * [Books](#books)
 * [YouTube channels](#youtube-channels)
 * [Movies](#movies)
+* [TV Shows](#tv-shows)
 
 ## Online presence
 
@@ -59,8 +60,50 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * [The Thought Emporium](https://www.youtube.com/@thethoughtemporium)
 * [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
+## Podcasts
+
 ## Movies
+
+### Live-Action
+
+* 2001: A Space Odyssey (1968)
+* 2010: The Year We Make Contact (1984)
+* A.I. (2001)
+* Blade Runner (1982)
+* Blade Runner 2049 (2017)
+* Brazil (1985)
+* Cloud Atlas (2012)
+* Colossus: The Forbin Project (1970)
+* Dune (2021)
+* eXistenZ (1999)
+* Ex Machina (2017)
+* Her (2013)
+* I, Robot (2004)
+* Minority Report (2002)
+* The Matrix (several movies)
+* Transcendence (2014)
+* Vanilla Sky (2001)
+* WALL-E (2008)
+
+### Anime
+
+* Akira (1988)
 
 ### Documentaries
 
-* _The Singularity Is Near: A True Story About the Future_
+* The Singularity Is Near: A True Story About the Future
+* Transcendent Man (2009)
+
+## TV Shows
+
+* Black Mirror (2011–)
+* Foundation (2021–)
+* Love, Death + Robots (2019–)
+* Westworld (2016–2022)
+
+### Anime
+
+* Cyberpunk: Edgerunners (2022)
+* Ghost in the Shell (several series)
+* Psycho-Pass (2012)
+* Serial Experiments Lain (1998)
