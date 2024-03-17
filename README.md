@@ -88,6 +88,9 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * Upgrade (2018)
 * Vanilla Sky (2001)
 * WALL-E (2008)
+* The Lawnmower Man (1992)
+* Limitless (2011)
+* Lucy (2014)
 
 ### Anime
 
